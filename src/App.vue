@@ -1,7 +1,7 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
+  import LoginComp from './components/LoginComp.vue';
 </script>
 
 <template>
-  <HelloWorld />
+  <LoginComp />
 </template>
